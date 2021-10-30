@@ -1,6 +1,6 @@
 ### Welcome to my GitHub page 👋
 
-I like to build stuff with JavaScript. You can find some of my projects here. Currently I am learning Vue.js.
+I like to build stuff with Vanilla JavaScript. You can find some of my projects here.
 
 My biggest project so far is [Actors Info](https://actorsinfo.herokuapp.com/), definitely check that out and leave me some feedback.
 
