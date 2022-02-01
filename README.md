@@ -1,6 +1,8 @@
-# Welcome to my GitHub page 👋
+# :wave: Welcome to my GitHub page
 
-I am a mathematician diving into web development. I like to build stuff in particular with JavaScript. You can find some of my projects here.
+I am a mathematician diving into web development.
+
+In particular I like to build stuff with JavaScript. You can find some of my projects here.
 
 I also like CSS a lot. Really!
 
@@ -8,15 +10,16 @@ I also like CSS a lot. Really!
 
 In case you know German, you can find JavaScript tutorials on my [Youtube channel](https://www.youtube.com/c/ScriptRaccoon).
 
-You can reach me via scriptraccoon [at] gmail [dot] com.
+You can reach me via [github name] [at] gmail [dot] com.
 
-## Technologies
+## :test_tube: Technologies 
 
-### Currently learning
-- Svelte
+### :mag: Currently learning 
+- Svelte :green_heart:
+- SvelteKit
 - Python
 
-### Very confident with
+### :mortar_board: Very confident with
  
 - JavaScript
 - HTML
@@ -26,9 +29,11 @@ You can reach me via scriptraccoon [at] gmail [dot] com.
 - Node.js
 - Git
 - VS Code
-- Svelte
+- LaTeX
+- SageMath
+- GAP
 
-### Quite confident with
+### :bulb: Quite confident with
 - SASS
 - TypeScript
 - EJS
@@ -36,7 +41,7 @@ You can reach me via scriptraccoon [at] gmail [dot] com.
 - Heroku
 - Netlify
 
-### Worked with
+### :hammer: Worked with
 
 - Vue.js
 - Java
@@ -47,12 +52,6 @@ You can reach me via scriptraccoon [at] gmail [dot] com.
 - SQL
 - Bootstrap
 - React
-- Python
-
-### Mathematics software
-- LaTeX
-- SageMath
-- GAP
 
 ## Languages from my repos
 
