@@ -55,4 +55,4 @@ You can reach me via [github name] [at] gmail [dot] com.
 
 ## Languages from my repos
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ScriptRaccoon)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ScriptRaccoon&langs_count=10)
