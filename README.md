@@ -52,6 +52,7 @@ You can reach me via [github name] [at] gmail [dot] com.
 - SQL
 - Bootstrap
 - React
+- Pug
 
 ## Languages from my repos
 
