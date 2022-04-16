@@ -17,16 +17,16 @@ I also like CSS a lot. Really!
 - Vanilla JavaScript
 - CSS
 - Svelte
+- Node.js
+- Google Apps Script
 - HTML
 - jQuery
-- Google Apps Script
-- Node.js
-- Git
 - Visual Studio Code
+- computer algebra software (SageMath, GAP)
 - LaTeX
-- CAS (SageMath, GAP)
 
 ### :bulb: Quite confident with
+- Git
 - Sass
 - TypeScript
 - EJS
@@ -34,7 +34,7 @@ I also like CSS a lot. Really!
 - Heroku
 - Netlify
 
-### :hammer: Worked with
+### :hammer: Familiar with
 
 - Vue.js
 - Java
@@ -48,6 +48,7 @@ I also like CSS a lot. Really!
 - Pug
 - Python
 - SvelteKit
+- Bundlers (gulp, Vite, Webpack, esbuild)
 
 ## Languages from my repos
 
