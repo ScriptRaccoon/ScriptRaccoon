@@ -26,6 +26,7 @@ I also like CSS a lot. Really!
 - LaTeX
 
 ### :bulb: Quite confident with
+- Express
 - Git
 - Sass
 - TypeScript
