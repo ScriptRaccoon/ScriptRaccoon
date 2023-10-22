@@ -2,9 +2,9 @@
 
 Hi, I am Martin!
 
-I am a mathematician and a web developer. I like to build stuff with JavaScript. I also like CSS a lot. Really!
+I am a mathematician and a web developer. These days, I also enjoy writing Python.
 
-![CSS](http://2.bp.blogspot.com/-41v6n3Vaf5s/UeRN_XJ0keI/AAAAAAAAN2Y/YxIHhddGiaw/s1600/css.gif)
+![Moss from IT Crowd](https://media.giphy.com/media/dbtDDSvWErdf2/giphy.gif)
 
 You can find some of my projects here as well as on my [portfolio website](https://scriptraccoon.dev).
 
