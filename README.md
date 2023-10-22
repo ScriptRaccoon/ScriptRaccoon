@@ -2,7 +2,7 @@
 
 Hi, I am Martin!
 
-I am a mathematician and a web developer. These days, I also enjoy writing Python.
+I am a mathematician and a web developer, writing applications in Svelte, TypeScript and Vanilla CSS. These days, I also enjoy writing Python.
 
 ![Moss from IT Crowd](https://media.giphy.com/media/dbtDDSvWErdf2/giphy.gif)
 
